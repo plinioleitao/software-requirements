@@ -48,4 +48,4 @@ O presente curso oferece uma visão geral de especificação de requisitos, em p
 
 ### References
 
-- [Requirements Engeinerring Processes](https://www.youtube.com/watch?v=Ec0s0z5uXQ8)
+- [Requirements Engineering Processes](https://www.youtube.com/watch?v=Ec0s0z5uXQ8)
