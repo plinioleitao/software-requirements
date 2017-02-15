@@ -46,4 +46,6 @@ O presente curso oferece uma visão geral de especificação de requisitos, em p
 - How things are done over time in a software development?
 - Detailed presentation of a software process with focus on requirements.
 
-### 
+### References
+
+- [Requirements Engeinerring Processes](https://www.youtube.com/watch?v=Ec0s0z5uXQ8)
