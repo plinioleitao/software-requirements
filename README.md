@@ -1,52 +1,61 @@
 # Welcome to Requirements Specification syllabus
 
-## Course description
+## Description
 This course provides an overview of software requirements.
 Em particular, contexto de execução, definição e processos pertinentes.
 
-### 1 Contexto
-- Overview
+### Context
+- Overview of course
  - Evaluation
  - Practical work
   - Teams will choose a domain of interest and define the scope of a software system whose specification will be used as the evaluation.
-- Context
+- Introduction to requirements engineering
  - What is software requirements?
  - What is software requirements specification?
+ - Types of requirements: user feature, detailed specification of system behaviour, a constraint (use of a particular programming language, algorithm).
  - What is the context?
   - System
   - Software
+  - Why are requirements important?
  - Process
 - What you will get?
  - Overview of requirements context
 
-### 2 Kinds of requirements
+### Requirements classification (functional and quality requirements)
 - We need to know what should be specified, right?
-- Functional requirements
-- Quality requirments (ISO/IEC 25010)
-- What you will get?
- - What will we being probably specifying?
+- Functional and quality requirements (ISO/IEC 25010)
+- What expect at the end?
+ - How requirements can be classified.
+ - Some examples of requirements. 
 
-### 3 Software requirements specification Standard
+### Stakeholders and viewpoints
+- Whos´s interested in requirements?
+- Why should I take that in account?
+
+### Software requirements specification Standard
+- Every document has a target user (content and form should reflect that).
 - When to use? When the use of formal standards pays off? When is this use worth?
 - ISO/IEC 29148:2011
 - Guidelines for specs
 - What you will get?
  - How should I register the requirements? What kind of document will be produced?
 
-### 4 Notations
+### Notations
 - Formality vs informality
 - Formal notations like Z
 - Use case notation
 - User stories (agile)
-- Other notations
+- Other notations (UML)
 - Examples (use of)
 - Results expected
  - Overview of exactly how a requerement is specified.
 
-### 5 Requirements process
-- How things are done over time in a software development?
+### Requirements process
+- How things are done over time in a software development (focus on requirements)? Waterfall, iterative, agile processes.
 - Detailed presentation of a software process with focus on requirements.
+- ISO/IEC 29148:2011
 
 ### References
 
+- [ISO/IEC/IEEE 29148:2011](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45171)
 - [Requirements Engineering Processes](https://www.youtube.com/watch?v=Ec0s0z5uXQ8)
