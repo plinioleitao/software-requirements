@@ -1,7 +1,8 @@
 # Welcome to Requirements Specification syllabus
 
 ## Course description
-O presente curso oferece uma visão geral de especificação de requisitos, em particular, contexto de execução, definição e processos pertinentes.
+This course provides an overview of software requirements.
+Em particular, contexto de execução, definição e processos pertinentes.
 
 ### 1 Contexto
 - Overview
@@ -18,21 +19,21 @@ O presente curso oferece uma visão geral de especificação de requisitos, em p
 - What you will get?
  - Overview of requirements context
 
-### Kinds of requirements
+### 2 Kinds of requirements
 - We need to know what should be specified, right?
 - Functional requirements
 - Quality requirments (ISO/IEC 25010)
 - What you will get?
  - What will we being probably specifying?
 
-### 2 Software requirements specification Standard (overview)
+### 3 Software requirements specification Standard
 - When to use? When the use of formal standards pays off? When is this use worth?
 - ISO/IEC 29148:2011
 - Guidelines for specs
 - What you will get?
  - How should I register the requirements? What kind of document will be produced?
 
-### 2 Notations
+### 4 Notations
 - Formality vs informality
 - Formal notations like Z
 - Use case notation
@@ -42,7 +43,7 @@ O presente curso oferece uma visão geral de especificação de requisitos, em p
 - Results expected
  - Overview of exactly how a requerement is specified.
 
-### Process
+### 5 Requirements process
 - How things are done over time in a software development?
 - Detailed presentation of a software process with focus on requirements.
 
